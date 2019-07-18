@@ -34,7 +34,7 @@ z = 0
 
         
 x = 0
-apikey = 'AIzaSyBsasOePyf4WntrtMTh5SHEWud7V0d18Jg'
+apikey = '$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$'
 sb = safebrowsing.LookupAPI(apikey)
 print ("Starting Google API")
 x = 9829 #19828
