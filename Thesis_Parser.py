@@ -32,7 +32,7 @@ for root, dirs, files in os.walk('E:\Documents\School\Thesis\Json Data\Data'):
         
                 del df
                 x = 0
-                apikey = 'AIzaSyCC4DDs64rmzu1QaqPOnBxys0Ev7fKtsWc'
+                apikey = '$$$$$$$$$$$$$$$$$$$$$$$$$'
                 sb = safebrowsing.LookupAPI(apikey)
                 print ("Starting Google API")
                 while x < 1: #len(final_list):
